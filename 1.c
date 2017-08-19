@@ -1,6 +1,7 @@
 //Delete the last occurence of node
 #include<stdio.h>
 #include<stdlib.h> // this is a coment
+// this is a sample comment by ramana
 
 struct node
 {
